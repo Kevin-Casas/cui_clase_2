@@ -22,3 +22,9 @@ p {
     width: 16%;
 }
 
+#contacto {
+    position: relative;
+    left: 37%;
+    font-size: 20px;
+}
+
